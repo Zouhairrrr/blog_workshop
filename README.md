@@ -25,15 +25,15 @@ barre de recherche sur les postes -> A.Nouaouri
 
 ######## Merci de laisser un commentaire sur chaque modification vous fait 
 
-######## ######## ######## ######## les commande de git  ######## ######## ######## ######## ######## ##########
-######## ########               1 -> git clone [url]                                          ######## ######## 
-######## ########               2 -> git status                                                ######## ######## 
-######## ########               3 -> git switch 'master' ou  bien 'test_branch'                ######## ######## 
-######## ########               4 -> git add .                                                ######## ######## 
-######## ########               5-> git commit -m 'message'                                   ######## ########
-######## ########               6 -> git push origin 'master' ou  bien 'test_branch'           ######## ######## 
-######## ########               7 -> git pull                                                  ######## ######## 
-######## ######## ######## ######## ######## ######## ######## ######## ######## ######## ######## ######## ####
+ les commande de git :
+              1 -> git clone [url]                                
+              2 -> git status                                     
+              3 -> git switch 'master' ou  bien 'test_branch'     
+              4 -> git add .                                      
+              5-> git commit -m 'message'                         
+              6 -> git push origin 'master' ou  bien 'test_branch'
+              7 -> git pull                                       
+
 
 
 
